@@ -25,7 +25,11 @@ npm test
 ## Project structure
 
 `app` - routing
+
 `common` - reusable React components.
+
 `featurse` - main components
+
 `theme` - styles global
+
 `utils` - helper function
